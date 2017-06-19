@@ -1,2 +1,3 @@
-# FibonacciNumbers
-Large Fibonacci numbers programming test
+# Programming tests
+
+Various programming tests
